@@ -30,6 +30,8 @@
 - [jq-timeTo](http://lexxus.github.io/jq-timeTo/)
 - [glDatePicker](http://glad.github.io/glDatePicker/)
 - [calendarsPicker](http://keith-wood.name/calendarsPicker.html)
+- [淘宝双日历](http://bbs.blueidea.com/thread-3043966-1-1.html)
+- [原生js日历](http://bbs.blueidea.com/thread-3101895-1-1.html)
 
 #### 弹出层
 ---
@@ -37,6 +39,7 @@
 - [sweetalert](http://t4t5.github.io/sweetalert/)
 - [animatedModal](http://joaopereirawd.github.io/animatedModal.js/)
 - [layui](http://layer.layui.com/)
+- [rtDialog](http://aui.github.com/artDialog/)
 
 #### 图表
 ---
