@@ -81,6 +81,7 @@
 ---
 
 - [懒加载](https://github.com/tuupola/jquery_lazyload)
+- [owlcarousel2--lazyLoad](https://owlcarousel2.github.io/OwlCarousel2/demos/lazyLoad.html)
 - [上拉加载更多](https://github.com/ximan/dropload)
 - [textarea自适应高度](https://github.com/phoetry/textareaAutoHeight)
 - [多行文本溢出clamp-js](http://joe.sh/clamp-js)
