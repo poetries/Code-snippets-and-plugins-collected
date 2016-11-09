@@ -103,6 +103,7 @@
 - [Effeckt](http://h5bp.github.io/Effeckt.css/)
 - [在线代码片段](http://www.phpxs.com/code/javascript/)
 - [jQuery插件库-收集最全最新最好的jQuery插件](http://www.jq22.com/)
+- [提供了大量的jQuery插件](http://www.htmleaf.com/)
 - [基于jQuery的插件库](http://jquerywidget.com/)
 - [前端组件库大合集-必备收藏](http://www.xuanfengge.com/he-sets-the-front-end-component-library-the-essential-collection.html)
-
+- [这是一个强大的模块化前端框架](http://www.layui.com/)
