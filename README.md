@@ -76,6 +76,11 @@
 - [jquery-color](https://github.com/jquery/jquery-color/)
 - [jQuery颜色选择插件 ](http://www.oschina.net/project/tag/287/color-picker)
 
+#### 表单验证
+---
+
+- [SMValidator](https://github.com/WLDragon/SMValidator)
+
 
 #### 其他
 ---
