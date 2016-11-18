@@ -97,7 +97,7 @@
 - [Js复制](http://zeroclipboard.org/)
 - [respond.js](http://www.bootcdn.cn/respond.js/)
 - [jQuery-slimScroll](http://www.bootcdn.cn/jQuery-slimScroll/)
-
+- [Isotope分类过滤和排序插件](http://www.htmleaf.com/pins/isotope-doc/layout-modes.html)
 
 
 #### 综合
