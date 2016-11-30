@@ -104,6 +104,8 @@
 ---
 
 - [找插件一步到位--浏览器扩展-快速查找](https://www.awesomes.cn/extension)
+- [plugins.jquery](http://plugins.jquery.com/)
+- [jqueryui-常用的插件网站](http://jqueryui.com/)
 - [dowebok](http://www.dowebok.com/)
 - [KitJs](http://xueduany.github.io/KitJs/KitJs/index.html)
 - [Effeckt](http://h5bp.github.io/Effeckt.css/)
