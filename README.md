@@ -98,7 +98,9 @@
 - [respond.js](http://www.bootcdn.cn/respond.js/)
 - [jQuery-slimScroll](http://www.bootcdn.cn/jQuery-slimScroll/)
 - [Isotope分类过滤和排序插件](http://www.htmleaf.com/pins/isotope-doc/layout-modes.html)
-
+- [瀑布流布局库](http://masonry.desandro.com/)
+- [图片轮播图其 GitHub 地址 jssor/slider](http://www.jssor.com/)
+- [纯 CSS 的图片轮播图](http://cssslider.com/)
 
 #### 综合
 ---
