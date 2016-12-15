@@ -196,3 +196,4 @@
 - [基于jQuery的插件库](http://jquerywidget.com/)
 - [前端组件库大合集-必备收藏](http://www.xuanfengge.com/he-sets-the-front-end-component-library-the-essential-collection.html)
 - [这是一个强大的模块化前端框架](http://www.layui.com/)
+- [网站里有很多前端实现的功能](http://www.html5tricks.com/)
