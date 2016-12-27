@@ -179,6 +179,7 @@
 - [瀑布流布局库](http://masonry.desandro.com/)
 - [图片轮播图其 GitHub 地址 jssor/slider](http://www.jssor.com/)
 - [纯 CSS 的图片轮播图](http://cssslider.com/)
+- [jQuery头像裁剪插件](http://www.html5tricks.com/jquery-avatar-cut.html)
 
 #### 综合
 ---
