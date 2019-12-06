@@ -1,8 +1,4 @@
-### 实用的插件收集
----
-
 ## 目录
----
 
 - [触屏滚动](#触屏滚动)
 - [视差滚动插件](#视差滚动插件)
@@ -23,8 +19,7 @@
 - [综合](#综合)
    
 
-#### 触屏滚动
----
+### 触屏滚动
 
 - [fullPage](http://alvarotrigo.com/fullPage/#firstPage)
 - [TouchSlide](http://www.superslide2.com/TouchSlide/index.html)
@@ -35,16 +30,15 @@
 - [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
 
 
-#### 视差滚动插件
----
+### 视差滚动插件
+
 
 - [SUPERSCROLLORAMA](http://johnpolacek.github.io/superscrollorama/)
 - [johnpolacek/superscrollorama](https://github.com/johnpolacek/superscrollorama)
 - [jQuery全屏滚动插件fullPage.js](http://www.dowebok.com/77.html)
 - [a fullscreen background slideshow built using the jQuery library.--非常酷](http://www.buildinternet.com/project/supersized/)
   
-#### 日期选择器
----
+### 日期选择器
 
 - [jquery-frontier-calendar](https://code.google.com/archive/p/jquery-frontier-calendar/)
 - [bootstrap-datetimepicker](http://www.bootcss.com/p/bootstrap-datetimepicker/)
@@ -56,8 +50,7 @@
 - [原生js日历](http://bbs.blueidea.com/thread-3101895-1-1.html)
 
 
-#### 图片
----
+### 图片
 
 - [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - 是一个简单易用的响应式图像灯箱效果脚本。[demo](https://feimosi.github.io/baguetteBox.js/)
 - [Lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - 是一个功能齐全的JavaScript图像灯箱插件。[demo](https://sachinchoolur.github.io/lightgallery.js/)
@@ -67,20 +60,17 @@
 - [blazy.js](https://github.com/dinbror/blazy/) - 是一个懒惰加载插件。[demo](http://dinbror.dk/blazy/)
 
 
-#### 布局
----
+### 布局
 
 - [SuperEmbed.js](https://github.com/corbindavenport/superembed.js) - 是一个Javascript库，可检测出网页上的内嵌视频并使他们能够变成响应式元素。[demo](https://jsfiddle.net/h6x04LuL/)
 - [ScrollReveal](https://github.com/jlmakes/scrollreveal) - ScrollReveal插件使用户能够无比轻松地创建桌面和移动浏览器的网页滚动动画。[demo](http://callmecavs.com/bricks.js/)
 - [Bricks.js](https://github.com/callmecavs/bricks.js) - 是一款超快的用于固定宽度元素的“砖石”布局生成器。[demo](http://callmecavs.com/bricks.js/)
 
-#### 轮播图
----
+### 轮播图
 
 - [Swipe](https://github.com/thebird/Swipe) - 准确的触摸滑块。[demo](http://thebird.github.io/Swipe/)
 
-#### 弹出层
----
+### 弹出层
 
 - [sweetalert](http://t4t5.github.io/sweetalert/)
 - [animatedModal](http://joaopereirawd.github.io/animatedModal.js/)
@@ -92,14 +82,12 @@
 - [layer](https://github.com/sentsin/layer) - 是一个web弹层组件。[demo](http://layer.layui.com)
 
 
-#### 音频视频
----
+### 音频视频
 
 - [Loud Links](https://github.com/mahdif/loud-links) - 是一个轻量级的JavaScript库用于添加交互声音到您的站点。[demo](http://loudlinks.rocks/#examples)
 - [flv.js](https://github.com/Bilibili/flv.js) - B 站 HTML5 播放器内核开源。
 
-#### 图表
----
+### 图表
 
 - [echarts](http://echarts.baidu.com/)
 - [hcharts](http://www.hcharts.cn/)
@@ -107,15 +95,13 @@
 - [chart](http://www.bootcss.com/p/chart.js/)
 - [taucharts](https://www.taucharts.com/)
 
-#### 幻灯/切换
----
+### 幻灯/切换
 
 - [qiqiboy/pageSwitch](https://github.com/qiqiboy/pageSwitch)
 - [nolimits4web/Swiper](https://github.com/nolimits4web/Swiper)
 - [H5fullscreenpage.js](http://lvming6816077.github.io/H5FullscreenPage/)
 
-#### 动画
----
+### 动画
 
 - [rstacruz/jquery.transit](https://github.com/rstacruz/jquery.transit)
 - [visionmedia/move.js](https://github.com/visionmedia/move.js)
@@ -124,20 +110,17 @@
 - [three.js](https://github.com/mrdoob/three.js) - 是一个JS 3D库。[demo](https://threejs.org/)
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript库，使SVG绘制动画。[demo](http://maxwellito.github.io/vivus/)
 
-#### 相册
----
+### 相册
 
 - [支持各种手势操作的 dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
 
-#### 取色插件
----
+### 取色插件
 
 - [类似 Photoshop 的界面取色插件](http://www.jq22.com/jquery-info367)
 - [jquery-color](https://github.com/jquery/jquery-color/)
 - [jQuery颜色选择插件 ](http://www.oschina.net/project/tag/287/color-picker)
 
-#### 表单
----
+### 表单
 
 - [SMValidator](https://github.com/WLDragon/SMValidator)
 - [validator.js](https://github.com/jaywcjlove/validator.js) - 轻量级的JavaScript表单验证，字符串验证。[demo](http://jaywcjlove.github.io/validator.js)
@@ -147,14 +130,12 @@
 - [validator.js](https://github.com/sofish/validator.js) - 是一个简单、轻量级，但功能强大的 Validator 组件。[demo](http://sofish.github.io/validator.js/)
 
 
-#### 存储
----
+### 存储
 
 - [store.js](https://github.com/jaywcjlove/store.js) - 本地存储localstorage的封装，提供简单的API。[demo](http://jaywcjlove.github.io/store.js)
 - [cookie.js](https://github.com/jaywcjlove/cookie.js) - 对操作cookie的封装，提供简单的AIP 兼容IE6。[demo](http://jaywcjlove.github.io/cookie.js)
 
-#### 其他
----
+### 其他
 
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) - 是一个强健的 Javascript 库用于捕获键盘输入和输入的组合键。[demo](http://nickersoft.github.io/push.js/)
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - 现代复制到剪贴板。没有Flash，gzip压缩只有3KB 。[demo](https://clipboardjs.com/)
@@ -181,8 +162,7 @@
 - [纯 CSS 的图片轮播图](http://cssslider.com/)
 - [jQuery头像裁剪插件](http://www.html5tricks.com/jquery-avatar-cut.html)
 
-#### 综合
----
+### 综合
 
 - [找插件一步到位--浏览器扩展-快速查找](https://www.awesomes.cn/extension)
 - [plugins.jquery](http://plugins.jquery.com/)
